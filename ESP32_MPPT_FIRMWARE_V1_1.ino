@@ -1,16 +1,18 @@
-/*  PROJECT FUGU FIRMWARE V1.10  (DIY 1kW Open Source MPPT Solar Charge Controller)
- *  By: TechBuilder (Angelo Casimiro)
+/*  PROJECT ESP32 FIRMWARE V1.10  (DIY 1kW Open Source MPPT Solar Charge Controller)
+ *  By: MD Tech BD (Arafat)
  *  FIRMWARE STATUS: Verified Stable Build Version
  *  (Contact me for the experimental beta versions)
  *  -----------------------------------------------------------------------------------------------------------
- *  DATE CREATED:  02/07/2021 
- *  DATE MODIFIED: 30/08/2021
+ *  DATE CREATED:  02/07/2024 
+ *  DATE MODIFIED: 16/10/2024
  *  -----------------------------------------------------------------------------------------------------------
  *  CONTACTS:
- *  GitHub - www.github.com/AngeloCasi (New firmware releases will only be available on GitHub Link)
- *  Email - casithebuilder@gmail.com
- *  YouTube - www.youtube.com/TechBuilder
- *  Facebook - www.facebook.com/AngeloCasii
+ *  GitHub - www.github.com/amdyasin47 (New firmware releases will only be available on GitHub Link)
+ *  Email - amdyasin47@gmail.com
+ *  YouTube - www.youtube.com/MD Tech BD
+ *  Facebook - www.facebook.com/MD Tech BD
+ *  Whatsapps - +8801812071100
+ *  Mobile - +8801931974157
  *  -----------------------------------------------------------------------------------------------------------
  *  PROGRAM FEATURES:
  *  - MPPT Perturbed Algorithm With CC-CV
@@ -41,8 +43,7 @@
  *  -----------------------------------------------------------------------------------------------------------
  *  GOOGLE DRIVE PROJECT LINK: coming soon
  *  INSTRUCTABLE TUTORIAL LINK: coming soon
- *  YOUTUBE TUTORIAL LINK: www.youtube.com/watch?v=ShXNJM6uHLM
- *  GITHUB UPDATED FUGU FIRMWARE LINK: github.com/AngeloCasi/FUGU-ARDUINO-MPPT-FIRMWARE
+ *  GITHUB UPDATED FUGU FIRMWARE LINK: https://github.com/amdyasin47/ESP32-MPPT-Controler-1KW
  *  -----------------------------------------------------------------------------------------------------------
  *  ACTIVE CHIPS USED IN FIRMWARE:
  *  - ESP32 WROOM32
